@@ -1,4 +1,4 @@
-# Project: Image Classification
+# Project: TV Script Generation
 The third project of [Udacity's](https://www.udacity.com) **Deep Learning Nanodegree Foundation**
 
 Train recurrent neural networks(RNNs) by feeding Simpsons dataset of scripts (27 seasons), and use the RNNs to generate a new TV script for a scene.
